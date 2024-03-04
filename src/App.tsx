@@ -10,6 +10,8 @@ import SomeFacts from './components/home/SomeFacts';
 import Testimonial from './components/home/Testimonial';
 
 function App() {
+  console.log('hiii');
+
   return (
     <div className='App w-full h-full bg-gray-100'>
       {/* <Header /> */}
